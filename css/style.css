@@ -92,13 +92,13 @@ body {
 .clock .hours-hand {
   background-color: black;
   width: 8px;
-  height: 43%;
+  height: 35%;
   z-index: 8;
 }
 .clock .minutes-hand {
   background-color: black;
   width: 6px;
-  height: 35%;
+  height: 43%;
   z-index: 9;
 }
 .clock .seconds-hand {
